@@ -48,7 +48,9 @@ const Home = () => {
         </div>
 
         <PrizeCard
+          title="CASH PRIZE"
           amount="AED10,000 Cash"
+          tickets=""
           price="AED10"
           description="*Use your Credit to shop at Modesh"
           drawDate="17 July, 2025 or earlier"
